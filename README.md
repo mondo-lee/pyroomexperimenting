@@ -2,7 +2,7 @@
 
 This is a repository holding the JupyterNotebooks and any relevant notes I take down as I work with Pyroomacoustics in a speech-enhancement beamforming project.
 
-I plan to start by looking through [this website](), and replicating the code to understand all of it.
+I plan to start by looking through [this website](https://pyroomacoustics.readthedocs.io/en/pypi-release/index.html), and replicating the code to understand all of it.
 
 # Environment Configuration
 
