@@ -15,4 +15,5 @@ Cython------------0.29.35 conda
 pybind11----------2.10.4 conda
 pyroomacoustics---0.7.3 pip
 ipykernel---------6.19.2 pip
+matplotlib--------3.7.1 conda
 ```
