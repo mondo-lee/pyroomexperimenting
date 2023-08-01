@@ -9,11 +9,12 @@ I plan to start by looking through [this website](https://pyroomacoustics.readth
 Managed using Anaconda
 
 ```
-numpy-------------1.25.0 conda
-scipy-------------1.10.1 conda
-Cython------------0.29.35 conda
-pybind11----------2.10.4 conda
-pyroomacoustics---0.7.3 pip
-ipykernel---------6.19.2 pip
-matplotlib--------3.7.1 conda
+python------------3.11
+numpy-------------1.25.0 pip
+scipy-------------1.10.1 pip
+Cython------------0.29.35 pip
+pybind11----------2.10.4 pip
+pyroomacoustics---0.7.3 conda
+ipykernel---------6.19.2 conda
+matplotlib--------3.7.1 pip
 ```
